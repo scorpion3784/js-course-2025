@@ -1,0 +1,316 @@
+[33mcommit 4d349bb3eb4d6d0be26e370867f592f354067169[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Thu Sep 26 16:16:03 2024 +0300
+
+    Update README.md
+
+[33mcommit c6fa973edff37090c2579b1e965cc76cb99775af[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Thu Sep 26 15:59:55 2024 +0300
+
+    Create Lesson 12.txt
+
+[33mcommit 01fa9ac5917a11b5b7b7a6db1283e14e688aa362[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Sep 25 19:08:01 2024 +0300
+
+    Lesson 12 Presentation added
+
+[33mcommit 82e8b82584af25dc8f28b5f58e7603814ac3b2f3[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Sep 18 19:27:00 2024 +0300
+
+    Матеріали для уроку 11
+
+[33mcommit 773541750f16362c44759578ed16f7782f7b7f35[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Tue Sep 10 18:37:55 2024 +0300
+
+    Update README.md
+
+[33mcommit 14be909e4a859c5f4cf9de4f7a8e1e252ca775fe[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Tue Sep 10 18:35:57 2024 +0300
+
+    Матеріали до уроку 10
+
+[33mcommit de62dd1c64da0d45e9bd9ff9818054f4a837755b[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Thu Sep 5 11:10:30 2024 +0300
+
+    Урок 9. Приклади коду
+
+[33mcommit 95de6d5c98a883c7362bf8bf76d86c6f7ebf5ded[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Sep 4 17:25:28 2024 +0300
+
+    Урок 9 Презентація та ДЗ
+
+[33mcommit ed0d8a5ddaed15e25493b6773dcfe98b55f34e81[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Thu Aug 29 22:02:40 2024 +0300
+
+    Lesson 8 Class Work
+
+[33mcommit 0db0733e3d93b5217aed6e3db356855b6d774615[m
+Merge: 5caf844 cf21e2e
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Thu Aug 29 19:25:35 2024 +0300
+
+    Merge branch 'master' of https://github.com/d-okhrimenko/js-course-2024
+
+[33mcommit 5caf844885812ec0e58b8fe60d06ae5d289e684a[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Thu Aug 29 19:25:24 2024 +0300
+
+    Презентація та матеріали до 8го уроку
+
+[33mcommit cf21e2e582fdb38ff1082088489950774e0aab12[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Thu Aug 22 16:40:57 2024 +0300
+
+    Update README.md
+
+[33mcommit f0367bc624ff7bf05d5bc8ceae3913d34db8a2d2[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Thu Aug 22 16:04:43 2024 +0300
+
+    ClassWork Lesson 7
+
+[33mcommit 0c86f5e9b10b33148baae8d6af01a09e36f997f2[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Aug 21 19:47:15 2024 +0300
+
+    Презентація до 7го уроку
+
+[33mcommit 77584723e3d35f891612589a349bccd035774c97[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Tue Aug 20 18:48:04 2024 +0300
+
+    Lesson 7 Presentation and HomeWork
+
+[33mcommit 4861f2e8e3ee9d392aa1b22daf3573bf3e11a34d[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Mon Aug 19 12:02:31 2024 +0300
+
+    Update README.md
+
+[33mcommit 927074ffaf4779e7ecfeb92696d93875feed5bff[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Aug 14 21:52:01 2024 +0300
+
+    Lesson 6
+
+[33mcommit 522e135027b49f488410a71e6d8df3d37ebe115b[m
+Author: Dmitriy <d.okhrimenko@cbsystematis.com>
+Date:   Tue Aug 13 14:48:06 2024 +0300
+
+    Матеріали 6 уроку та ДЗ длля 6 уроку
+
+[33mcommit 33c98166fec800f42d6deb026896be0f0151effb[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Thu Aug 8 10:40:34 2024 +0300
+
+    Update README.md
+
+[33mcommit e532d12ebdfd372e111a529c7849c0418a3ec9dc[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Thu Aug 8 10:38:03 2024 +0300
+
+    Приклади 5 лекції по темі 'функціє'
+
+[33mcommit efa8288cc41d101be68fd80b909cb310255b9d0d[m
+Merge: 7f20817 d649a6f
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Aug 7 17:10:19 2024 +0300
+
+    Merge branch 'master' of https://github.com/d-okhrimenko/js-course-2024
+
+[33mcommit 7f20817687eca61b79fd6cac930941ceb3968c35[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Aug 7 17:10:07 2024 +0300
+
+    Презентація та ДЗ до уроку 5 - функції
+
+[33mcommit d649a6f8f917250cdbf52c847caff27da9148753[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Thu Aug 1 16:56:49 2024 +0300
+
+    Update README.md
+
+[33mcommit 496feb509bdc5323296791ccad7abf7b35b10719[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Jul 31 22:19:24 2024 +0300
+
+    Урок 4
+
+[33mcommit f931c25755f0a38651f3d2c7dd968079b5691109[m
+Merge: 1dd233e ff246aa
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Jul 31 16:16:17 2024 +0300
+
+    Merge branch 'master' of https://github.com/d-okhrimenko/js-course-2024
+
+[33mcommit 1dd233e267b013c4e37c317d32b6f5dbe8b8af1f[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Jul 31 16:16:02 2024 +0300
+
+    Презентація та ДЗ для уроку 4
+
+[33mcommit ff246aa8a6670ff2e7b174ef5a7b575c9d1a197b[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Thu Jul 25 10:36:01 2024 +0300
+
+    Update README.md
+
+[33mcommit 42ead60d954be32a4472cc804035434c244d5039[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Jul 24 21:50:43 2024 +0300
+
+    Приклади до уроку 3 - змінні та типи даних
+
+[33mcommit ecabf638f36183a541823866323a86e59a5897cc[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Jul 24 17:36:08 2024 +0300
+
+    Презентація та ДЗ для урока 3
+
+[33mcommit 77f10f3e68598ca902b419d834e654a2a6f45a81[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Fri Jul 19 11:48:26 2024 +0300
+
+    Update README.md
+
+[33mcommit b58a9a4a101dffdfb02a6dd11ec526a97785e6dc[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Fri Jul 19 11:30:36 2024 +0300
+
+    Update 01-example.html
+
+[33mcommit be21f006972f4a00539f2ae193528ad4e7db860d[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Thu Jul 18 11:51:05 2024 +0300
+
+    Lesson 2 classwork
+
+[33mcommit b6d4375df0a2dba867f594f924fc60c81c6f5f98[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Jul 17 19:43:41 2024 +0300
+
+    Додана презентація для другого уроку
+
+[33mcommit 4f0a208119f030706a14e0e2b7aadacde0130639[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Jul 17 16:13:41 2024 +0300
+
+    Додані посилання у Readme
+
+[33mcommit 06539effc27c650b6ff52e9428826c328fdb319b[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Jul 17 15:58:53 2024 +0300
+
+    Додана інформація щодо перевірки домашніх завдань
+
+[33mcommit ba93c919898c79f147766e3379ba564e8ce3f503[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Jul 17 15:34:17 2024 +0300
+
+    Домашнє завдання для уроку 2
+
+[33mcommit 2b320c67c2f248795b712cc1eea2cb3e32674563[m
+Merge: 053a1cf 6affd26
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Thu Jul 11 12:47:34 2024 +0300
+
+    Merge branch 'feature1'
+
+[33mcommit 6affd26da4a9f74809140a72472861ddebde1224[m[33m ([m[1;31morigin/feature1[m[33m)[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Thu Jul 11 12:46:35 2024 +0300
+
+    Updated folder structure
+
+[33mcommit 053a1cfed57a3e243acf4c6e68257e51ec41ba0d[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Thu Jul 11 12:45:53 2024 +0300
+
+    Update README.md
+
+[33mcommit 08777aaadd024f39c8800b48c17e2b57987d3b8f[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Thu Jul 11 12:45:00 2024 +0300
+
+    Create README.md
+
+[33mcommit df75592624ba79e2a3c07f3e0d99d207e0e9803d[m
+Merge: 444b227 17f22f4
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Jul 10 21:57:29 2024 +0300
+
+    Merge branch 'feature1'
+
+[33mcommit 444b2272b8a170c0590770002c925a388730996d[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Jul 10 21:53:22 2024 +0300
+
+    banner 456
+
+[33mcommit 17f22f4f2b5fb150c2384c54381d49c204b8857c[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Jul 10 21:50:18 2024 +0300
+
+    new banner
+
+[33mcommit 5426c4e790aafe4281301e5110edb6fedb6d427c[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Jul 10 21:49:43 2024 +0300
+
+    fix in css
+
+[33mcommit fa63627775842fbbbf6ccd8ad82a47c251ce21fa[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Jul 10 21:43:57 2024 +0300
+
+    new banner
+
+[33mcommit 8cf3da92fa64567d5b3744835ad62111ed5738cf[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Jul 10 21:22:26 2024 +0300
+
+    test chnages
+
+[33mcommit 55b6444d649984b4699bdb8db9888e698612b4aa[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Jul 10 21:21:37 2024 +0300
+
+    index translated
+
+[33mcommit 5fbe6b984a853fdca5b572fcdf4d9881c7ada8e1[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Jul 10 21:10:04 2024 +0300
+
+    Update index.html
+
+[33mcommit 15fa32b6da6a74fc32ad487d7516816fd28e1a1b[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Jul 10 21:08:53 2024 +0300
+
+    Update index.html
+
+[33mcommit 5bd2bc26b7260a7bfe8efaa9df9f5fd31da3128d[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Jul 10 20:59:59 2024 +0300
+
+    test line removed
+
+[33mcommit 04a846ab2b9f875dacec2d58f2c1b5b7aad88a95[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Jul 10 20:48:00 2024 +0300
+
+    test line added
+
+[33mcommit b00153aa57a8d65f0dbfd91aa9ce5e6188b2c1a4[m
+Author: Dmitriy Okhrimenko <d.okhrimenko@cbsystematics.com>
+Date:   Wed Jul 10 20:45:07 2024 +0300
+
+    first commit
